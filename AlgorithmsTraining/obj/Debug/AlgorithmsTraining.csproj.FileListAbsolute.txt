@@ -1,0 +1,6 @@
+D:\Desktop\Personal project-C#\AlgorithmsTraining\AlgorithmsTraining\bin\Debug\AlgorithmsTraining.exe.config
+D:\Desktop\Personal project-C#\AlgorithmsTraining\AlgorithmsTraining\bin\Debug\AlgorithmsTraining.exe
+D:\Desktop\Personal project-C#\AlgorithmsTraining\AlgorithmsTraining\bin\Debug\AlgorithmsTraining.pdb
+D:\Desktop\Personal project-C#\AlgorithmsTraining\AlgorithmsTraining\obj\Debug\AlgorithmsTraining.csprojResolveAssemblyReference.cache
+D:\Desktop\Personal project-C#\AlgorithmsTraining\AlgorithmsTraining\obj\Debug\AlgorithmsTraining.exe
+D:\Desktop\Personal project-C#\AlgorithmsTraining\AlgorithmsTraining\obj\Debug\AlgorithmsTraining.pdb
